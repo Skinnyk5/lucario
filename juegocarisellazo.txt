@@ -7,4 +7,6 @@
 //Parte 1 NicolasCeballos
 generacion del numero aleatorio
 
+//Parte 2 CristianReyes
+generar apuesta del juego
 
